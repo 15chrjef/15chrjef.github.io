@@ -122,7 +122,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #00A6EB;
+  color: white;
   font-family: 'HelveticaNeue-Light', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue Light', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -169,6 +169,50 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
+}
+
+.mycontent-left {
+  margin-top: 3rem;
+  border-right: 1px solid #D8D8D8;
+  padding-right: .75rem;
+  padding-left: .75rem;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  min-width: 23rem;
+}
+
+.mycontent-right {
+  margin-top: 3rem;
+  padding-right: .75rem;
+  padding-left: .75rem;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  min-width: 23rem;
+}
+
+.top {
+  border-top: 1px solid #D8D8D8;
+  padding: 3rem .75rem 0 .75rem;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  min-width: 23rem;
+}
+
+.bullet_txt {
+  min-height: 10rem;
+  padding-top: 1rem;
+  font-size: .8rem;
+}
+
+.service_desc {
+  min-height: 6rem;
+}
+
+.book-pic {
+  height: 15rem;
 }
 
 header.masthead {
