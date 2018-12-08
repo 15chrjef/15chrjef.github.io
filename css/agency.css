@@ -429,6 +429,26 @@ header.masthead .intro-text .intro-heading {
   background-color: #212529;
 }
 
+.fixed-image {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  z-index: 1;
+  width: 6rem;
+  height: 6rem;
+  text-align: center;
+  color: white;
+  border: 1px solid #e9ecef;
+  border-radius: 100%;
+  background-color: #00A6EB;
+}
+
+.fixed-image h4 {
+  font-size: 10px;
+  line-height: 14px;
+  margin-top: 12px;
+}
+
 .timeline {
   position: relative;
   padding: 0;
