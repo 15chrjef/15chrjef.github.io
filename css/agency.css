@@ -1,6 +1,6 @@
 /*!
  * Jeff Christian Co - Agency v5.0.2 (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2018 Jeff Christian Co
+ * Copyright 2013-2019 Jeff Christian Co
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
