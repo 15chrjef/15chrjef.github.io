@@ -163,4 +163,17 @@
 .about-image {
   display: flex;
   justify-content: center;
+  min-width: 30vw;
+}
+
+.cust-row{
+  display: flex!important;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.button-text {
+  font-size: 18px !important;
 }

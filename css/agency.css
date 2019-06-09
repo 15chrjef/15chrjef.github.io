@@ -609,6 +609,21 @@ header.masthead .intro-text .intro-heading {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
+  min-width: 30vw;
+}
+
+.cust-row {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.button-text {
+  font-size: 18px !important;
 }
 
 .team-member {
